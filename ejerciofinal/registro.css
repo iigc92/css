@@ -15,7 +15,7 @@ body{
 }
 
 #contenedor{
-  background-color: rgb(206, 134, 134);
+  background-color: #BC8F8F;
   padding: 10px 20px;
   border-radius: 4px;
   box-shadow: 0 2px 5px grey;
@@ -60,7 +60,8 @@ span{
 select, input{
   width: 100%;
   margin: 0;
-  padding: 0;
+  padding: 3px;
+  border: none;
 }
 
 button{
